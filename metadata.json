@@ -1,0 +1,6 @@
+{
+  "name": "CropFix",
+  "description": "AI-assisted crop-health decision-support platform for early detection and management of crop diseases and pest infestations.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
